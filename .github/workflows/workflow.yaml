@@ -8,8 +8,8 @@ on:
 env:
   APP_NAME: mt3chained-web
   LOGIN_SERVER: acrpd071224.azurecr.io
-  CLUSTER_NAME: 
-  CLUSTER_RESOURCE_GROUP: 
+  CLUSTER_NAME: aks-pd
+  CLUSTER_RESOURCE_GROUP: azure-pd-rg
   NAMESPACE: default
 
 jobs:
